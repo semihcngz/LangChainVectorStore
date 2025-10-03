@@ -1,43 +1,42 @@
-🤖 Local RAG with Sentence Transformers
+#🤖 Local RAG with Sentence Transformers
 
 Lokal sentence-transformers ile çalışan RAG sistemi. Embedding işlemleri için API maliyeti yok.
 
-<br>
-
-🌟 Özellikler
+##🌟 Özellikler
 ✅ Lokal sentence-transformers ile embedding
 ✅ Chroma vector database ile vektör saklama
 ✅ LangChain ile RAG pipeline
 ✅ OpenAI GPT modelleri ile yanıt üretimi
 
-<br>
-
-🚀 Kurulum
+##🚀 Kurulum
 
 Repository'yi klonlayın:
+```bash
   git clone <repository-url>
   cd <repository-name>
-
+```
 
 Virtual environment oluşturun (önerilen):
+```bash
   python -m venv venv
   source venv/bin/activate  # Linux/Mac
   #veya
   venv\Scripts\activate  # Windows
-
+```
 
 Gerekli paketleri yükleyin:
+```bash
   pip install -r requirements.txt
+```
 
-<br>
 
 <img width="861" height="461" alt="cat" src="https://github.com/user-attachments/assets/549c00fb-b8a3-4063-9239-074a9271d4c8" />
 
-<br>
+
 
 <img width="914" height="447" alt="beginnerPet" src="https://github.com/user-attachments/assets/4774d417-86e2-45b9-b245-146fc68c9326"/>
 
-<br>
+
 
 RAG yapısı sayesinde sadece bizim verdiğimiz bilgilerle sonuçlar üretiyor.
 Internette var olmayan bilgileri (gizlilikten dolayı) kendimiz vererek modeli şekillendirebiliriz 
