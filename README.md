@@ -10,10 +10,14 @@ Lokal sentence-transformers ile çalışan RAG sistemi. Embedding işlemleri iç
 ✅ OpenAI GPT modelleri ile yanıt üretimi
 
 
+
+
 🚀 Kurulum
+
 Repository'yi klonlayın:
   git clone <repository-url>
   cd <repository-name>
+
 
 Virtual environment oluşturun (önerilen):
   python -m venv venv
@@ -21,14 +25,22 @@ Virtual environment oluşturun (önerilen):
   #veya
   venv\Scripts\activate  # Windows
 
+
 Gerekli paketleri yükleyin:
   pip install -r requirements.txt
 
 
 
+
+
+
 <img width="861" height="461" alt="cat" src="https://github.com/user-attachments/assets/549c00fb-b8a3-4063-9239-074a9271d4c8" />
 
-<img width="914" height="447" alt="beginnerPet" src="https://github.com/user-attachments/assets/4774d417-86e2-45b9-b245-146fc68c9326" />
+
+
+<img width="914" height="447" alt="beginnerPet" src="https://github.com/user-attachments/assets/4774d417-86e2-45b9-b245-146fc68c9326"/>
+
+
 
 
 RAG yapısı sayesinde sadece bizim verdiğimiz bilgilerle sonuçlar üretiyor.
