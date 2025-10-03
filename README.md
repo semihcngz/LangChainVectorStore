@@ -1,14 +1,14 @@
-#🤖 Local RAG with Sentence Transformers
+# 🤖 Local RAG with Sentence Transformers
 
 Lokal sentence-transformers ile çalışan RAG sistemi. Embedding işlemleri için API maliyeti yok.
 
-##🌟 Özellikler
+## 🌟 Özellikler
 ✅ Lokal sentence-transformers ile embedding
 ✅ Chroma vector database ile vektör saklama
 ✅ LangChain ile RAG pipeline
 ✅ OpenAI GPT modelleri ile yanıt üretimi
 
-##🚀 Kurulum
+## 🚀 Kurulum
 
 Repository'yi klonlayın:
 ```bash
