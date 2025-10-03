@@ -2,6 +2,7 @@
 
 Lokal sentence-transformers ile çalışan RAG sistemi. Embedding işlemleri için API maliyeti yok.
 
+<br>
 
 🌟 Özellikler
 ✅ Lokal sentence-transformers ile embedding
@@ -9,8 +10,7 @@ Lokal sentence-transformers ile çalışan RAG sistemi. Embedding işlemleri iç
 ✅ LangChain ile RAG pipeline
 ✅ OpenAI GPT modelleri ile yanıt üretimi
 
-
-
+<br>
 
 🚀 Kurulum
 
@@ -29,19 +29,15 @@ Virtual environment oluşturun (önerilen):
 Gerekli paketleri yükleyin:
   pip install -r requirements.txt
 
-
-
-
-
+<br>
 
 <img width="861" height="461" alt="cat" src="https://github.com/user-attachments/assets/549c00fb-b8a3-4063-9239-074a9271d4c8" />
 
-
+<br>
 
 <img width="914" height="447" alt="beginnerPet" src="https://github.com/user-attachments/assets/4774d417-86e2-45b9-b245-146fc68c9326"/>
 
-
-
+<br>
 
 RAG yapısı sayesinde sadece bizim verdiğimiz bilgilerle sonuçlar üretiyor.
 Internette var olmayan bilgileri (gizlilikten dolayı) kendimiz vererek modeli şekillendirebiliriz 
